@@ -18,3 +18,12 @@ booleans.unshift(true)
 # If we puts strings[2] it should display Galvin.
 
 puts strings[2]
+
+#It did!
+
+# I looked up the replace method. It just replaces your current array with a new array that you define
+
+# This should replace 32, 30,, 29, 34 with 1, 2, 3, 4, 5
+intergers.replace([1, 2, 3, 4, 5])
+
+puts intergers
