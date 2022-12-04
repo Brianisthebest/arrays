@@ -1,0 +1,3 @@
+- I'm feeling pretty good with what we just learned. I'm looking forward to looking into more ways we can alter them to keep adjusting what's stored in them.
+- I mean, I *want* to keep taking a look at more methods, but I also don't want to overload my brain, especially knowing I'll always have access to ruby-docs and can look after taking a break.
+- No current questions, just looking forward to learning more.
