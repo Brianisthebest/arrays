@@ -12,3 +12,9 @@ intergers.pop
 floats.shift
 # Puts it at the beginning of the array while pushing the rest up in element order
 booleans.unshift(true)
+
+# Index positions start with 0 and then go up by 1 each position following. With our strings array
+# Sophie is in position 0, Reggie is in 1, Galvin is in 2, Andrew is in 3, and Carl is being pushed to 4
+# If we puts strings[2] it should display Galvin.
+
+puts strings[2]
